@@ -1,0 +1,7 @@
+[Activity]
+name = NicMat
+bundle_id = org.sugarlabs.NicMat
+icon = activity-helloworld
+exec = sugar-activity activity.NicMatActivity
+activity_version = 1
+show_launcher = yes
